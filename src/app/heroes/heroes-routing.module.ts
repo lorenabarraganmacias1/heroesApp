@@ -11,7 +11,7 @@ import { HeroPageComponent } from './pages/hero-page/hero-page.component';
 const routes: Routes = [
   
   {
-    path: 'Routes',
+    path: '',
     component:LayoutPageComponent,
     children:[
       {path:'new hero', component:NewPageComponent},
