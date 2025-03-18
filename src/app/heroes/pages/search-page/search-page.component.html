@@ -7,10 +7,25 @@
         type="text"
         matInput
         [formControl]="searchaInput"
+        (input)="searchHero()"
+        [matAutocomplete]="auto"
         />
+        <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete"
+                          (optionSelected)="OnSelectedOption($event)"
+                          >
+            <mat-option *ngFor="let hero of heroes" [value]="hero">
+              {{hero.superhero}}
+            </mat-option>
+            <mat-option
+            *ngIf="heroes.length === 0 && searchaInput.value && searchaInput.value.length > 0"
+            value="">
+                No se encontró nada con este término  {{searchaInput.value}}
+            </mat-option>
+          </mat-autocomplete>
+          
     </mat-form-field>
 
-    {{searchaInput.value| json}}
-    {{searchaInput.touched| json}}
-    {{searchaInput.pristine| json}}
+    {{ selectedHero | json}}
+
+    
 </div>
