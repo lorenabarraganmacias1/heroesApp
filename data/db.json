@@ -13,16 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El",
-      "alt_img": "https://imgcdn.stablediffusionweb.com/2024/10/6/9ea4e5d5-f997-4d11-97f4-015f12a6ccf6.jpg"
+      "characters": "Bruce Wayne",
+      "alt_img": "https://images3.memedroid.com/images/UPLOADED267/66d77cb870c65.jpeg"
     },
     {
       "id": "dc-flash",
@@ -30,7 +22,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "alt_img": "https://i.imgflip.com/4/60o0ac.jpg"
     },
     {
       "id": "dc-green",
@@ -38,15 +31,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Alan Scott",
       "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
-    },
-    {
-      "id": "dc-arrow",
-      "superhero": "Green Arrow",
-      "publisher": "DC Comics",
-      "alter_ego": "Oliver Queen",
-      "first_appearance": "More Fun Comics #73",
-      "characters": "Oliver Queen"
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+      "alt_img": "https://fotografias.antena3.com/clipping/cmsimages02/2011/07/27/ED7290BB-F053-4E4D-9F4C-4CF0602D08DF/58.jpg"
     },
     {
       "id": "dc-wonder",
@@ -54,7 +40,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Princess Diana",
       "first_appearance": "All Star Comics #8",
-      "characters": "Princess Diana"
+      "characters": "Princess Diana",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReOu6euUMwo-pN4OB4OUZSHVUAzTJry3-SFA&s"
     },
     {
       "id": "dc-martian",
