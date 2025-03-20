@@ -13,8 +13,15 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne",
-      "alt_img": "https://images3.memedroid.com/images/UPLOADED267/66d77cb870c65.jpeg"
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
@@ -22,8 +29,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
-      "alt_img": "https://i.imgflip.com/4/60o0ac.jpg"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
     },
     {
       "id": "dc-green",
@@ -31,8 +37,15 @@
       "publisher": "DC Comics",
       "alter_ego": "Alan Scott",
       "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
-      "alt_img": "https://fotografias.antena3.com/clipping/cmsimages02/2011/07/27/ED7290BB-F053-4E4D-9F4C-4CF0602D08DF/58.jpg"
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen"
     },
     {
       "id": "dc-wonder",
@@ -40,8 +53,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Princess Diana",
       "first_appearance": "All Star Comics #8",
-      "characters": "Princess Diana",
-      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReOu6euUMwo-pN4OB4OUZSHVUAzTJry3-SFA&s"
+      "characters": "Princess Diana"
     },
     {
       "id": "dc-martian",
@@ -154,60 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "-TAH441",
-      "superhero": "yoshi",
-      "publisher": "DC Comics",
-      "alter_ego": "jhorjan",
-      "first_appearance": "Mario bro",
-      "characters": "el caballito",
-      "alt_img": "https://i.pinimg.com/736x/55/20/8a/55208a01f849ec1c1826af7799500d6d.jpg"
-    },
-    {
-      "id": "g1irmY0",
-      "superhero": "yoshi",
-      "publisher": "DC Comics",
-      "alter_ego": "jhorjan",
-      "first_appearance": "Mario bro",
-      "characters": "el caballito",
-      "alt_img": "https://i.pinimg.com/736x/55/20/8a/55208a01f849ec1c1826af7799500d6d.jpg"
-    },
-    {
-      "id": "lHjo_mQ",
-      "superhero": "yoshi",
-      "publisher": "DC Comics",
-      "alter_ego": "jhorjan",
-      "first_appearance": "Mario bro",
-      "characters": "el caballito",
-      "alt_img": "https://i.pinimg.com/736x/55/20/8a/55208a01f849ec1c1826af7799500d6d.jpg"
-    },
-    {
-      "id": "0yLD5uW",
-      "superhero": "yoshi",
-      "publisher": "DC Comics",
-      "alter_ego": "jhorjan",
-      "first_appearance": "Mario bro",
-      "characters": "el caballito",
-      "alt_img": "https://i.pinimg.com/736x/55/20/8a/55208a01f849ec1c1826af7799500d6d.jpg"
-    },
-    {
-      "id": "t4zngMe",
-      "superhero": "yoshi",
-      "publisher": "DC Comics",
-      "alter_ego": "jhorjan",
-      "first_appearance": "Mario bro",
-      "characters": "el caballito",
-      "alt_img": "https://i.pinimg.com/736x/55/20/8a/55208a01f849ec1c1826af7799500d6d.jpg"
-    },
-    {
-      "id": "B-cnE3m",
-      "superhero": "yoshi",
-      "publisher": "DC Comics",
-      "alter_ego": "jhorjan",
-      "first_appearance": "Mario bro",
-      "characters": "el caballito",
-      "alt_img": "https://i.pinimg.com/736x/55/20/8a/55208a01f849ec1c1826af7799500d6d.jpg"
     }
   ]
 }
